@@ -24,7 +24,7 @@
 
 ### Блок-схема
 
-(https://github.com/Avebanger/Lab5/blob/master/математика.png)
+(https://github.com/Avebanger/lab06/blob/master/лаб_6.png)
 
 ## 2. Реализация программы
 ```
